@@ -1274,17 +1274,24 @@ padding: 10px;
 }
 
 .container-modulos{
-    border-top: 5px solid #d4d4d4;
+    /*border-top: 5px solid #d4d4d4;*/
     padding: 10px 0px;
 }
 
 .container-modulos:hover{
-    border-top: 5px solid #15C4ED;
+    /*border-top: 5px solid #15C4ED;*/
 }
 
+.container-modulos p{
+    font-size: 17px;
+}
 .container-beneficios{
     border-left: 5px solid #d4d4d4;
     padding: 0px 10px;
+}
+
+.container-beneficios p{
+    font-size: 17px;
 }
 
 .container-beneficios:hover{
