@@ -3125,7 +3125,7 @@ fieldset[disabled] .btn-default.focus {
 }
 .btn-primary {
   color: #fff;
-  padding: 15px;
+  padding: 7px;
   background-color: #2B96CC;
   box-shadow: 0 3px 0 #1B83B8;
     -moz-box-shadow:0 3px 0 #1b83b8;
@@ -5267,7 +5267,7 @@ a.thumbnail.active {
 .media:first-child {
   margin-top: 0;
   padding: 15px;
-  border: 1px solid #f4f4f4;
+  /*border: 1px solid #f4f4f4;*/
 }
 .media,
 .media-body {

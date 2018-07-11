@@ -1267,6 +1267,7 @@ padding: 10px;
 .section-padding-detail
 {
   padding: 20px 0px;
+  font-size: 16px;
 /* padding-top: 80px;
  padding-bottom: 30px;
  padding-left: 0px;
@@ -1474,3 +1475,4 @@ h1.light span, h2.light span, h3.light span, h4.light span, h5.light span, h6.li
 .solid-row {
     background: #2B96CC;
 }
+
